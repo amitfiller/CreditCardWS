@@ -9,7 +9,7 @@ using System.Data.OleDb;
 /// <summary>
 /// Summary description for Credit
 /// </summary>
-[WebService(Namespace = "http://tempuri.org/")]
+[WebService(Namespace = "http://tempuri.org/")] 
 [WebServiceBinding(ConformsTo = WsiProfiles.BasicProfile1_1)]
 
 public class Credit : System.Web.Services.WebService
